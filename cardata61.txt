@@ -1,0 +1,11 @@
+Car          car1  SP   819487 maintenance  false  NONE
+Car          car2  NP    46877 business     true   Portland
+Car          car3  NS      157 tender       true   Saint Louis
+FreightCar   car4  PVT  123457 tank         false  Fort Worth
+FreightCar   car5  MP    98767 box          true   Saint Louis
+FreightCar   car6  SP   567897 flat         true   New York
+FreightCar   car7  NSF    7877 hopper       true   Texarkana
+PassengerCar car8  KCS    7897 chair        true   Kansas City
+PassengerCar car9  ATSF    147 sleeper      true   Tucson
+PassengerCar car10 B&O     747 combine      false  Winslow
+

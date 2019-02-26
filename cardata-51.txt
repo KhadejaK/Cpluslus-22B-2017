@@ -1,0 +1,10 @@
+Car          car1  SP   819480 maintenance  false  NONE
+Car          car2  SLSF  46870 business     true   Memphis
+Car          car3  AOK     150 tender       true   McAlester
+FreightCar   car4  MKT  123450 tank         false  Fort Worth
+FreightCar   car5  MP    98760 box          true   Saint Louis
+FreightCar   car6  SP   567890 flat         true   Chicago
+FreightCar   car7  GMO    7870 hopper       true   Mobile
+PassengerCar car8  KCS    7890 chair        true   Kansas City
+PassengerCar car9  PAPX    140 sleeper      true   Tucson
+PassengerCar car10 B&O     740 combine      false  NONE
